@@ -1,12 +1,12 @@
-# Pizza-Classification-Using-ANN
+# Pizza_Classification_Using_ANN
 
 
 ## Table of Contents
-- [Overview](#Overview)
-- [Problem Statement](#Problem-Statement)
-- [Methodology](#Methodology)
-- [Technologies Used](#Technologies-Used)
-- [Results](#Result)
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Methodology](#methodology)
+- [Technologies Used](#technologies-used)
+- [Results](#results)
 
 ## Overview
 A famous 30 year old pizza brand which has outlets in more than 90 countries started home
@@ -30,7 +30,7 @@ Train set is divided into burnt pizza and good pizza categories. While training 
 - Used Transfer Learning (VGG16) for classification.
 
 ## Technologies Used
-[![Made withGoogleColab](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 ## Results
-![image]("C:\Users\HP\Downloads\Gradio Pizza.png")
+![image](https://user-images.githubusercontent.com/40405066/235787812-897f8cab-d87f-44c4-a5ad-41bdee1375be.png)
