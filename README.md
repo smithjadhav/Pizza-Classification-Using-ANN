@@ -20,6 +20,9 @@ can upload images for the burnt pizzas delivered. For example, if I have receive
 I can upload a couple of images of the pizza to the application and it will classify the pizza as burnt
 or good in order to process my refund ticket.
 
+## Dataset
+The Dataset is Too Large To Be Uploaded. Anyone Who Wants the Dataset Can Connent With me I will share them the dataset.
+
 ## Problem Statement
 You are hired as Deep Learning Engineer by a famous pizza franchise. You are asked to build a model where it accepts the images of pizza and detects as burnt pizza or good pizza.
 You should be using only ANN and shouldn’t be using CNN or any other rule based model to generate results. Data is in the form of images collected from multiple sources of the internet.
